@@ -1,0 +1,8 @@
+# Nix generated
+/.pre-commit-config.yaml
+result
+
+# Fortran builds
+*.o
+*.mod
+*.out
